@@ -1,7 +1,54 @@
 
-<h2>Hey 👋, I'm Yaser </h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
-<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</
+<!-- Repo has been edited to be static, see comments for dynamic calls. -->
+hello! here's a little about me:
+
+<h1>
+  i really like quran :headphones:
+</h1>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
+
+<p></p>
+
+<h1>
+  i was a frontend intern at chess.com ♟️
+</h1>
+
+<p align="center">
+  <a href="https://www.chess.com/member/andyruwruw">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
+  </a>
+</p>
+
+<p align="center">
+  <i>luckily being good at chess wasn't a pre-req to the job</i>
+</p>
+
+<p></p>
+
+<h1>
+  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+</p>
