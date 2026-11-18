@@ -1,54 +1,47 @@
+# Hello! I'm Yasser 👋
 
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! here's a little about me:
-
-<h1>
-  i really like quran :headphones:
-</h1>
-
-<!-- Nothing weird to see here -->
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
-
-<p></p>
-
-<h1>
-  i was a frontend intern at chess.com ♟️
+<h1 align="center">
+  Welcome to my GitHub Profile!
 </h1>
 
 <p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
-  </a>
+  A passionate beginner Web Developer who loves learning new technologies and building things with code.
 </p>
 
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
-</p>
-
-<p></p>
+---
 
 <h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+  A little about me 👨‍💻
+</h1>
+
+- 👋 My name is Yasser.
+- 🌱 I'm currently learning Web Development.
+- 💻 I enjoy programming and building websites.
+- 📖 I love listening to the Holy Quran.
+- 🚀 Always learning and improving my skills.
+
+---
+
+<h1>
+  Technologies I'm Learning :hammer:
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git" alt="My Skills" />
+</p>
+
+---
+
+<h1>
+  My Goal 🎯
+</h1>
+
+<p align="center">
+  To become a skilled Web Developer, build amazing projects, and never stop learning.
+</p>
+
+---
+
+<p align="center">
+  <i>"Every expert was once a beginner."</i>
 </p>
