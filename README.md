@@ -23,6 +23,16 @@
 ---
 
 <h1>
+  Chess ♟️
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
+</p>
+
+---
+
+<h1>
   Technologies I'm Learning :hammer:
 </h1>
 
@@ -56,4 +66,4 @@
 
 <p align="center">
   <i>"Every expert was once a beginner."</i>
-</p>
+</p>>
